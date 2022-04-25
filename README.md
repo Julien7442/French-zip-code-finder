@@ -1,6 +1,6 @@
 # France zip code finder
 
-## Type any french zip code to find cities and population of these last ones
+## Type any french zip code to find cities and population of this last one
 
 **Notes :**
 
